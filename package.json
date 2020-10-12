@@ -1,0 +1,23 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "## resources - Video Tutorial: https://www.youtube.com/watch?v=BwuLxPH8IDs - Tutorial: https://www.educative.io/blog/typescript-tutorial - Tutorial: https://www.valentinog.com/blog/typescript/ - Handbook: https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessfeng/typescript-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessfeng/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/jessfeng/typescript-tutorial#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
