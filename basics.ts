@@ -10,6 +10,8 @@ Types:
 - tuple ([1,2]) --> fixed-length array (ts special!)
 - enum (enum{NEW, OLD})
 - any type (*) --> avoid!!
+- unknown --> like any, but better
+- never --> usually for errors
 */
 
 function add(a: number, b: number, show: boolean, phrase: string) {
